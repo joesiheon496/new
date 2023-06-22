@@ -9,6 +9,7 @@
 
 ## 모델 2개 ensemble한 결과표
 ![image](https://github.com/joesiheon496/new/assets/56191064/9c92b887-a105-4529-88ed-d50cda46bde6)
+```
 [GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
                             learning_rate=0.1, loss='log_loss', max_depth=3,
                             max_features=None, max_leaf_nodes=None,
@@ -24,7 +25,7 @@
                 n_estimators=100, n_jobs=-1, num_leaves=31, objective=None,
                 random_state=1, reg_alpha=0.0, reg_lambda=0.0, silent='warn',
                 subsample=1.0, subsample_for_bin=200000, subsample_freq=0)]
-
+```
 
 ## 모델 1개 ensemble한 결과표
 ![image](https://github.com/joesiheon496/new/assets/56191064/361fd37f-dcb1-4367-bf16-4ed2ea806f5b)
