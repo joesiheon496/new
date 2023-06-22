@@ -9,3 +9,6 @@
 
 ## 모델 2개 ensemble한 결과표
 ![image](https://github.com/joesiheon496/new/assets/56191064/9c92b887-a105-4529-88ed-d50cda46bde6)
+
+## 모델 1개 ensemble한 결과표
+![image](https://github.com/joesiheon496/new/assets/56191064/361fd37f-dcb1-4367-bf16-4ed2ea806f5b)
