@@ -44,3 +44,5 @@
 ![image](https://github.com/joesiheon496/new/assets/56191064/06a22a06-16b7-4820-b330-6f9a365b03cc)
 
 ## SQL 쿼리로 실행
+
+# [Snowflake Python에서 사용법](https://zzsza.github.io/data-engineering/2023/05/29/python-with-snowflake/)
